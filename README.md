@@ -1,5 +1,7 @@
 # Progress bar, by Simone Moschetta
 
+## Link to project https://ashwilliams1992.github.io/progress-bar/
+
 A simple progress bar made in React with a fetch API (http://pb-api.herokuapp.com/bars):
 the select box allow to change the progress bar that you want to modify;
 the list of buttons increase/decrease the progress bar selected.
