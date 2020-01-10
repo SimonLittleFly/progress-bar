@@ -1,4 +1,4 @@
-# Progress bar, by Simone
+# Progress bar, by Simone Moschetta
 
 A simple progress bar made in React with a fetch API (http://pb-api.herokuapp.com/bars):
 the select box allow to change the progress bar that you want to modify;
