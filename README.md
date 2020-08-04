@@ -1,6 +1,6 @@
 # Calculate your budget, by Simone Moschetta
 
-## Link to project https://ashwilliams1992.github.io/progress-bar/
+## Link to project https://simonlittlefly.github.io/progress-bar/
 
 A simple progress bar made in React with a fetch API (http://pb-api.herokuapp.com/bars):
 select the progress bar that you want to modify clicking on it;
